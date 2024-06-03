@@ -1,5 +1,6 @@
 streamlit
 nltk
+pickle
 nltk.corpus
 nltk.stem.porter
 string
